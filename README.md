@@ -49,8 +49,14 @@ All these charcters equals to 256 bytes, we need to calculate a new payload.
 Next we open two terminals.
 
 ### Terminal 1
+![](bilder/1.PNG)
 
-![](bilder/1.png)
+We listen for a connection from root.
+
 ### Terminal 2
+![](bilder/code.PNG)
 
-![](bilder/code.png)
+We send the payload which starts the reverse shell.
+
+### Terminal 1
+![](bilder/2.PNG)
